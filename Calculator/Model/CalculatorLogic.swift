@@ -2,9 +2,7 @@
 //  CalculatorLogic.swift
 //  Calculator
 //
-//  Created by Ilnur Mindubayev on 29.07.2022.
-//  Copyright © 2022 London App Brewery. All rights reserved.
-//
+
 
 import Foundation
 
